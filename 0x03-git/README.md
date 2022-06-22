@@ -1,1 +1,1 @@
-Some text for this read me
+This software is one of my projects with github
